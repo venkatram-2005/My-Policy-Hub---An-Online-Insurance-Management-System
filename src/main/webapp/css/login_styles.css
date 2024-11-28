@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, #008080, #00b3b3); /* Teal Blue Gradient */
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    width: 800px;
+    max-width: 90%;
+}
+
+.card {
+    flex: 1;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s, box-shadow 0.3s;
+    text-decoration: none;
+    color: #000;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+.card-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+h2 {
+    margin: 15px 0;
+}
+
+p {
+    margin: 0;
+    color: #333;
+}

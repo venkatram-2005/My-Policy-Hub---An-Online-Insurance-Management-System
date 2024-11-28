@@ -16,7 +16,7 @@
 ### Technology Stack:
 - **Backend**: Java, JDBC
 - **Database**: MySQL
-- **Frontend**: HTML, CSS, JavaScript (integration not specified but assumed based on standard web projects)
+- **Frontend**: HTML, CSS, JavaScript
 
 ### Outcome:
 The platform improves efficiency and customer satisfaction by simplifying insurance-related tasks and providing an accessible digital interface.

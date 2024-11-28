@@ -60,7 +60,7 @@ The platform improves efficiency and customer satisfaction by simplifying insura
 
 - **Login/Registration**: Secure authentication process.
 
-![image](https://github.com/user-attachments/assets/d6cf948e-5bed-4205-8b50-d3a5ba2e1d66)
+![image](https://github.com/user-attachments/assets/0a8a8086-b9ac-45c4-90ee-26c4cae756e5)
 ![image](https://github.com/user-attachments/assets/35cf862a-c45d-4403-9401-dff4c297f04c)
 
 - **Customer Home**: Dashboard for accessing features like scheduling and insurance plans.
@@ -97,8 +97,17 @@ The platform improves efficiency and customer satisfaction by simplifying insura
 
 - **Admin Dashboard**: Centralized interface to manage agents, appointments, and plans.
 
+![image](https://github.com/user-attachments/assets/b16d7cae-f327-4cc4-b390-ec17d237d59e)
+
   
 - **Admin Features**: Tools for detailed oversight and control.
+
+![image](https://github.com/user-attachments/assets/65905889-a268-478b-98e3-18cb50242ffd)
+![image](https://github.com/user-attachments/assets/2adb5c51-2436-4c29-b48a-8b6807ef54f6)
+
+- **AI Assist – Predict the Health charges**
+
+![image](https://github.com/user-attachments/assets/a2e7a563-71f1-45b9-a37e-f167aadc7ea9)
 
 ---
 

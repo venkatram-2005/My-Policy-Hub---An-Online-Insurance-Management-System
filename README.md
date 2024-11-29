@@ -30,6 +30,12 @@ The platform improves efficiency and customer satisfaction by simplifying insura
 - **Insurance Plan Access**: View, compare, and understand different insurance plans.
 - **User-Friendly Interface**: Intuitive design for seamless interaction.
 
+### Agent Features: 
+- **Secure Login**: Access the platform securely.
+- **Set Availability**: Manage availability for customer appointments.
+- **Set Status** : Update current status to reflect availability.
+- **View Booked Appointments** : Keep track of upcoming schedules.
+
 ### For Administrators:
 - **Agent Management**: Add, update, and manage agent profiles, availability, and schedules.
 - **Appointment Oversight**: Monitor, modify, or cancel appointments, resolving conflicts as needed.

@@ -3,7 +3,7 @@
 ## 📌 Introduction
 **My Policy Hub** is a user-friendly web application designed to streamline insurance management processes. It empowers customers to easily schedule appointments with agents, access comprehensive insurance plan information, and manage their appointments efficiently. The system also offers robust administrative tools for managing agents, plans, and appointments through a centralized dashboard.
 
----
+--
 
 ## 🏗️ Project Overview
 ### Key Features:

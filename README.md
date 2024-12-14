@@ -132,7 +132,7 @@ The platform improves efficiency and customer satisfaction by simplifying insura
 
 ---
 
-## 🏆 Team
+## 🏆 Team Members
 - **Ajit Beniwal**
 - **Anubhav Bhattacharjee**
 - **Katikireddy Shalini**
@@ -145,3 +145,5 @@ The platform improves efficiency and customer satisfaction by simplifying insura
 Contributions, issues, and feature requests are welcome! Feel free to submit a pull request or open an issue for discussion.
 
 ---
+
+
